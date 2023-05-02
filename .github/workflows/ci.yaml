@@ -8,4 +8,4 @@ jobs:
     secrets: inherit
     with:
       java_version: "17"
-      gradle_version: "current"
+      gradle_version: "wrapper"
